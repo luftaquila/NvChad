@@ -9,7 +9,7 @@ return {
   },
 
   {
-    "nvchad/ui",
+    "luftaquila/nvchad-ui",
     lazy = false,
     config = function()
       require "nvchad"
